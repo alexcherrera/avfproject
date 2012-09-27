@@ -1,4 +1,34 @@
+#picJun {
+	height: 120px;
+	width: 150px;
+}
 #picCont {
-	height: 80px;
-	width: 100px;
+	height: 100px;
+	width: 130px;
+	list-style-display: inline;
+}
+#picNotif {
+	height: 100px;
+	width: 130px;
+	list-style-display: inline;
+}
+#picCam {
+	height: 100px;
+	width: 130px;
+}
+#picStor {
+	height: 100px;
+	width: 130px;
+}
+#picVide {
+	height: 100px;
+	width: 130px;
+}
+#picFacebk {
+	height: 100px;
+	width: 130px;
+}
+#picTwi {
+	height: 100px;
+	width: 130px;
 }
