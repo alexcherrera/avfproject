@@ -5,12 +5,10 @@
 #picCont {
 	height: 100px;
 	width: 130px;
-	list-style-display: inline;
 }
 #picNotif {
 	height: 100px;
 	width: 130px;
-	list-style-display: inline;
 }
 #picCam {
 	height: 100px;
@@ -31,4 +29,14 @@
 #picTwi {
 	height: 100px;
 	width: 130px;
+}
+#row1 {
+	list-style-type: none;
+	float: left;
+	margin: 0px 10px;
+}
+#row2 {
+	list-style-type: none;
+	float: left;
+	margin: 0px 10px;
 }
