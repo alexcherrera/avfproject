@@ -1,6 +1,34 @@
+body {
+	background-color: #33A1DE;
+}
+#demoAppCont {
+	width: 400px;
+	height: 600px;
+	background-color: #8EA4B1;
+	color:#E9F5FB;
+}
 #picJun {
-	height: 120px;
-	width: 150px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#orgApText {
+	text-align: center;	
+	color:#E9F5FB;
+}
+#demoHead{
+	border: 10px ridge#607B8B;
+	text-align: center;
+}
+#picJun {
+	height: 320px;
+	width: 350px;
+}
+#appFeatureCont {
+	width: 400px;
+	height: 600px;
+	background-color: #8EA4B1;
+	color:#E9F5FB;
 }
 #picCont {
 	height: 100px;
@@ -30,13 +58,21 @@
 	height: 100px;
 	width: 130px;
 }
-#row1 {
+#row1Features li {
 	list-style-type: none;
 	float: left;
-	margin: 0px 10px;
+	margin-left: 0px;
+	padding-right: 10px;
 }
-#row2 {
+#row2Features li {
 	list-style-type: none;
 	float: left;
-	margin: 0px 10px;
+	margin-left: 0px;
+	padding-right: 10px;
+}
+#row1API li {
+	list-style-type: none;
+	float: left;
+	margin-left: 0px;
+	padding-right: 10px;	
 }
